@@ -1,4 +1,6 @@
 Project Details:
+CRISP-ML(Q) (Cross-Industry Standard Process for Machine learning with Quality Assurance) project management methodology steps implemented in this project
+
 1) Business Problem: The company is facing overstocking due to offcuts piling up & understocking of specific-sized TMT rods.
 
 2) Business Objective: Minimize the amount of money tied in the inventory
